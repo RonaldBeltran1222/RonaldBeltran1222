@@ -79,5 +79,4 @@ Here are some ideas to get you started:
 
 <div align="center">
   <b>Gracias por visitar mi perfil de automatización 🛠️</b><br>
-  <img src="https://media.giphy.com/media/3o7TKP3rKXG1xw1YBa/giphy.gif" width="100">
 </div>
