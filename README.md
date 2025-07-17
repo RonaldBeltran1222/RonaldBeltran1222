@@ -58,20 +58,15 @@ Here are some ideas to get you started:
 <h2 align="center">Conecta conmigo 🤝</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ronaldbeltran1222/" target="_blank">
+  <a href="https://www.linkedin.com/in/ronald-beltran2208/" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="mailto:ronaldbeltran1222@gmail.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="Email" width="50" height="50" />
   </a>
-  <a href="https://discordapp.com/users/tuIDaqui" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" width="50" height="50" />
-  </a>
-</p>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
 
 ---
 
