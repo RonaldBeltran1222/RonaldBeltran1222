@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## 😎 **Sobre mí**
 
 - 🤖 Apasionado por la automatización de tareas repetitivas.
-- 🧠 Me especializo en usar herramientas como **Playwright**, **Selenium** y **Python** para automatizar sitios web, pruebas y bots.
+- 🧠 Me especializo en usar herramientas como **Playwright**, **Selenium** , **Java** y **Python** para automatizar sitios web, pruebas y bots.
 - 🔍 Me interesa el scraping ético, la generación de reportes automáticos y bots inteligentes.
 - 🎯 Siempre en busca de nuevos retos para optimizar procesos.
 - 📂 Este repositorio muestra mis proyectos personales y pruebas de concepto relacionados con automatización.
