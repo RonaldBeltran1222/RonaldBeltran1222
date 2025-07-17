@@ -32,15 +32,6 @@ Here are some ideas to get you started:
 - 📂 Este repositorio muestra mis proyectos personales y pruebas de concepto relacionados con automatización.
 
 ---
-
-## ⚙️ **Habilidades Técnicas**
-
-<p align="center">
-
-### 🤖 Automatización y Testing
-
-![Playwright](https://img.shields.io/badge/-Playwright-black?style=for-the-badge&logo=playwright)
-![Selenium](https://img.shields.io/badge/-Selenium-black?style=for-the-badge&logo=selenium)
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
