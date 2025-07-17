@@ -28,8 +28,9 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="Gmail" />
   </a>
   
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rbeltran2208@gmail.com)
-
+<a href="https://mail.google.com/mail/?view=cm&to=rbeltran2208@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
+</a>
 
 
 
