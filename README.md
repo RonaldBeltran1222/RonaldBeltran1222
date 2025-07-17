@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=for-the-badge&logo=playwright)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=for-the-badge&logo=selenium)
-![Cypress](https://img.shields.io/badge/-Cypress-black?style=for-the-badge&logo=cypress)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=for-the-badge&logo=puppeteer)
 
 ### 🐍 Lenguajes
 
@@ -55,7 +53,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 
 </p>
 
