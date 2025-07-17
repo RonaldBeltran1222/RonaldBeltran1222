@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mí**
-
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+## **Sobre mí**
 
 - 🤖 Apasionado por la automatización de tareas repetitivas.
 - 🧠 Me especializo en usar herramientas como **Playwright**, **Selenium** y **Python** para automatizar sitios web, pruebas y bots.
