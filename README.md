@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<br>
 
 <!-- Technologies Section -->
 <h2 align="center">Tecnologías en las que trabajo ⚙️</h2>
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   </a>
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<br>
 
 ---
 
