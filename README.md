@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 <h2 align="center">Conecta conmigo 🤝</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ronald-beltran2208/" target="_blank">
+  <a href="https://www.linkedin.com/in/ronald-beltran2208/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="Gmail" />
   </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&to=rbeltran2208@gmail.com" target="_blank">
+  
+<a href="https://mail.google.com/mail/?view=cm&to=rbeltran2208@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
 </a>
+
 
 
 <br>
