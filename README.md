@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,selenium,java,js,ts,nodejs,react,html,css,vscode,git,github,linux,bash,figma,postman,playwright,pytest&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,selenium,java,js,ts,nodejs,react,html,css,vscode,git,github,linux,bash,figma,postman,playwright,intellijidea,pytest&perline=10" />
   </a>
 </p>
 
