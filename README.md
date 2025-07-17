@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="mailto:ronaldbeltran1222@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="Email" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=gmail,pytest&perline=10" />
   </a>
 
 <br>
