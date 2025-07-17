@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </a>
   
 <a href="https://mail.google.com/mail/?view=cm&to=rbeltran2208@gmail.com" target="_blank">
-  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rbeltran2208@gmail.com)
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
 </a>
 
 
