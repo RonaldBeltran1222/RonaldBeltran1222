@@ -18,6 +18,18 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F58C&size=25&center=true&vCenter=true&width=700&lines=Especialista+en+automatización+de+procesos+web;Construyendo+soluciones+para+ahorrar+tiempo+🚀"></a>
 </p>
+<br>
+
+<!-- Contact Section -->
+<h2 align="center">Conecta conmigo 🤝</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ronald-beltran2208/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" width="50" height="50" />
+  </a>
+  <a href="mailto:ronaldbeltran1222@gmail.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="Email" width="50" height="50" />
+  </a>
 
 <br>
 
@@ -52,18 +64,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
-
-<!-- Contact Section -->
-<h2 align="center">Conecta conmigo 🤝</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ronald-beltran2208/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" width="50" height="50" />
-  </a>
-  <a href="mailto:ronaldbeltran1222@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="Email" width="50" height="50" />
-  </a>
 
 <!-- Divider -->
 <br>
