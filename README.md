@@ -27,9 +27,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/ronald-beltran2208/" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" width="50" height="50" />
   </a>
-<a href="mailto:rbeltran2208@gmail.com">
+
+  <a href="https://mail.google.com/mail/?view=cm&to=rbeltran2208@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
 </a>
+
 
 <br>
 
